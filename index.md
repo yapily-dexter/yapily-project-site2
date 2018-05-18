@@ -8,7 +8,7 @@ Welcome to the **Yapily Developer Resources** wiki!
 
 ## Getting help
 
-Yapily developers’ community on Slack is the place to get help with API, discuss ideas, and show off what you build. Enter your email address in the [Google form invite](https://docs.google.com/forms/d/e/1FAIpQLSe6Xalk1MPm-Cus0g5Q6PzkK45DFQHGyPrTc2r5rqyxic8Dow/viewform) to join our space on [Slack](https://yapily.slack.com).
+The Yapily Developers’ community on Slack is the place to get help with API, discuss ideas, and show off what you build. Enter your email address in the [Google form invite](https://docs.google.com/forms/d/e/1FAIpQLSe6Xalk1MPm-Cus0g5Q6PzkK45DFQHGyPrTc2r5rqyxic8Dow/viewform) to join our space on [Slack](https://yapily.slack.com).
 
 You can also email developers@yapily.com to create a support ticket.
 
@@ -22,3 +22,10 @@ You can also email developers@yapily.com to create a support ticket.
 - [SDK and Example code - Java](https://github.com/yapily/yapily-sdk-java/) - Open source code that can be used as Maven dependecy
 - [SDK and Example code - Node.js](https://github.com/yapily/yapily-sdk-nodejs) - Open source Node JS code that can be used to build on top of Yapily API
 - [SDK and Example code - Python](https://github.com/yapily/yapily-sdk-python) - Open source Python code that can be used to build on top of Yapily API
+
+## Glossary
+
+- **Application**: Your application created in the Yapily Dashboard
+- **Application User**: Users of your application
+- **Institution**: A financial institution (e.g. a bank) providing access to financial data via API
+- **Consent Token**: A type of JWT used to identify the consent required to retrieve financial data via Yapily
