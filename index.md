@@ -1,7 +1,3 @@
-<p align="center">
-<img src="http://static.yapily.com/images/yapily/yapily_logo_bg_white.png" href='https://www.yapily.com/' width="350px"/>
-</p>
-
 # Yapily developer resources
 
 Welcome to the **Yapily Developer Resources** wiki!
