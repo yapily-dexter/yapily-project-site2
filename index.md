@@ -21,7 +21,18 @@ You can also email developers@yapily.com to create a support ticket.
 
 ## Glossary
 
+### Yapily Terms
 - **Application**: Your application created in the Yapily Dashboard
 - **Application User**: Users of your application
 - **Institution**: A financial institution (e.g. a bank) providing access to financial data via API
 - **Consent Token**: A type of JWT used to identify the consent required to retrieve financial data via Yapily
+
+### General Terms
+- **API**:
+- **PSD2**: 
+- **OAuth2**:
+- **Open Banking**:
+- **TPP**:
+- **ASPSP**:
+- **AISP**:
+- **PISP**:
